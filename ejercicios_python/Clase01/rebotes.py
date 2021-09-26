@@ -4,5 +4,4 @@ Una pelota de goma es arrojada desde una altura de 100 metros y cada vez que toc
 altura = 100
 for i in range(1,11):
     altura = altura * (3/5)
-    altura = round(altura, 4)
-    print(f"{i} rebote, {altura}")
+    print(f"{i} rebote, {round(altura, 2)}")
