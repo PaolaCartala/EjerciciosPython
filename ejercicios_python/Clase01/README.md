@@ -1,6 +1,8 @@
-# Temas que practiqué en esta unidad:
+# Unidad: Introducción
 
 [![Gitter](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org/)
+
+## Temas que practiqué en esta unidad:
 
 - Introducción a Python
     - ¿Qué es Python?

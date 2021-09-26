@@ -1,6 +1,8 @@
-# Temas que practiqué en esta unidad:
+# Unidad: Estructuras y funciones
 
 [![Gitter](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org/)
+
+## Temas que practiqué en esta unidad:
 
 - Manejo de archivos
   - Archivos de entrada y salida
