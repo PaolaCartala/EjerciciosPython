@@ -37,9 +37,7 @@
   - El método format()
   - Formato estilo C
 
-- Arbolado porteño
-En esta sección haremos algunos ejercicios que integran los conceptos aprendidos en las clases anteriores. Vamos a manejar archivos, diccionarios, listas, contadores y el comando zip, entre otras cosas. 
-
+- Arbolado porteño: En esta sección haremos algunos ejercicios que integran los conceptos aprendidos en las clases anteriores. Vamos a manejar archivos, diccionarios, listas, contadores y el comando zip, entre otras cosas. 
 
 ## Contribuciones
 
