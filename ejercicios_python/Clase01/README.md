@@ -1,7 +1,6 @@
 # Temas que practiqué en esta unidad:
 
 [![Gitter](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org/)
-[![Gitter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paola-cartala/)
 
 - Introducción a Python
     - ¿Qué es Python?
