@@ -11,7 +11,7 @@ Cabe destacar que semana a semana participamos en la **corrección entre pares**
 
 ## Instalación y uso
 
-No es necesario instalar ningún paquete externo, para poder testear los ejercicios se puede clonar este repositorio y correr los scripts en un IDE.
+Para poder testear los ejercicios se puede clonar este repositorio e instalar los módulos que sean necesarios (los que se mencionan como importados) y correr los scripts en un IDE.
 
 ## Temario
 
