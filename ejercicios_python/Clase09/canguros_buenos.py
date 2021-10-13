@@ -12,6 +12,8 @@ class Canguro:
         """
         Inicializa el Canguro, nombre es un string y contenido_marsupio es una lista opcional de contenido en el marsupio.
         """
+        if contenido_marsupio is None:
+            contenido_marsupio = []
         self.nombre = nombre
         self.contenido_marsupio = contenido_marsupio
 
@@ -27,7 +29,7 @@ class Canguro:
         """
         contenido = f'Canguro {self.nombre} tiene en su marsupio: '
         for item in self.contenido_marsupio:
-            contenido += f'\n{object.__str__(item)}'
+            contenido += f'\n{item}'
         return contenido
 
 #%%
@@ -69,12 +71,17 @@ class Canguro:
 #%%
 madre_canguro = Canguro('Madre')
 cangurito = Canguro('gurito')
+
+#%%
 madre_canguro.meter_en_marsupio('billetera')
 madre_canguro.meter_en_marsupio('llaves del auto')
 madre_canguro.meter_en_marsupio(cangurito)
+cangurito.meter_en_marsupio('juguete')
 
+#%%
 print(madre_canguro)
-print(cangurito)
 
 # Al ejecutar este código todo parece funcionar correctamente.
 # Para ver el problema, imprimí el contenido de cangurito.
+
+# %%
