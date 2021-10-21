@@ -5,7 +5,6 @@ ejercicios_python/Clase03/readme.txt
 ejercicios_python/Clase04/readme.txt
 ejercicios_python/Clase06/readme.txt
 ejercicios_python/Clase12/readme.txt
-
 ejercicios_python/Clase01/inclusive.py
 ejercicios_python/Clase01/iteracion.py
 ejercicios_python/Clase01/saludo.py
@@ -13,7 +12,6 @@ ejercicios_python/Clase01/split.py
 ejercicios_python/Clase08/readme.txt
 ejercicios_python/Data/readme.txt
 ejercicios_python/Clase02/ejercicio 2.1.py
-.gitignore
 ejercicios_python/Clase02/ejercicio 2.5.py
 ejercicios_python/Clase02/ejercicio 2.4.py
 ejercicios_python/Clase02/ejercicio 2.8.py
@@ -37,3 +35,46 @@ ejercicios_python/Clase05/revision2.py
 ejercicios_python/Clase06/hipoteca.py
 ejercicios_python/Clase06/rebotes.py
 ejercicios_python/Clase06/repaso.py
+ejercicios_python/Clase06/__pycache__/hipoteca.cpython-39.pyc
+ejercicios_python/Clase06/__pycache__/rebotes.cpython-39.pyc
+ejercicios_python/Clase07/7.7matplotlib.py
+ejercicios_python/Clase07/68747470733a2f2f6d6174706c6f746c69622e6.png
+ejercicios_python/Clase07/68747470733a2f2f6d6174706c6f746c69622e6f72672f636865617.png
+ejercicios_python/Clase07/ejercicio.py
+ejercicios_python/Clase07/__pycache__/informe.cpython-39.pyc
+ejercicios_python/Clase07/readme.txt
+ejercicios_python/examen.py
+ejercicios_python/Clase08/8.2ejemplos.py
+ejercicios_python/Clase08/8.5pandas.py
+ejercicios_python/Data/clase9_colas/codigo_cola.py
+ejercicios_python/Data/clase9_colas/codigo_colaprio.py
+ejercicios_python/Data/clase9_colas/codigo.py
+ejercicios_python/Data/clase9_colas/cola_prioridad.py
+ejercicios_python/Data/clase9_colas/cola.py
+ejercicios_python/Clase08/correlacion_con_desplazamientos.py
+ejercicios_python/Clase08/mareas_fft.py
+ejercicios_python/Clase09/clip.zip
+ejercicios_python/Clase09/colas.png
+ejercicios_python/Clase09/ejs.zip
+ejercicios_python/Clase09/LSDS-1368_L8_C1-LandSurfaceReflectanceCode-LASRC_Produc.pdf
+ejercicios_python/Clase09/NDVI.py
+ejercicios_python/Clase09/pila.py
+ejercicios_python/Clase09/teledeteccion.pdf
+ejercicios_python/Clase09/clip/LC08_L1TP_225084_20180213_20180222_01_T1_sr_band1_clip.npy
+ejercicios_python/Clase09/clip/LC08_L1TP_225084_20180213_20180222_01_T1_sr_band2_clip.npy
+ejercicios_python/Clase09/ejs/costo_camion.py
+ejercicios_python/Clase09/ejs/fileparse.py
+ejercicios_python/Clase09/ejs/informe_final.py
+ejercicios_python/Clase09/clip/LC08_L1TP_225084_20180213_20180222_01_T1_sr_band3_clip.npy
+ejercicios_python/Clase09/clip/LC08_L1TP_225084_20180213_20180222_01_T1_sr_band4_clip.npy
+ejercicios_python/Clase09/clip/LC08_L1TP_225084_20180213_20180222_01_T1_sr_band5_clip.npy
+ejercicios_python/Clase09/clip/LC08_L1TP_225084_20180213_20180222_01_T1_sr_band6_clip.npy
+ejercicios_python/Clase09/clip/LC08_L1TP_225084_20180213_20180222_01_T1_sr_band7_clip.npy
+ejercicios_python/Clase09/readme.txt
+ejercicios_python/Clase10/expresiones_generadoras.py
+ejercicios_python/Clase10/iteradores_ejemplo.py
+ejercicios_python/Clase10/readme.txt
+ejercicios_python/Clase10/modelo.zip
+ejercicios_python/Clase10/pipeline_simple.py
+ejercicios_python/Clase10/simulacion.py
+ejercicios_python/Clase11/ejercicio1.11.py
