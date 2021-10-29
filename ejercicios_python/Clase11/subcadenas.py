@@ -7,6 +7,8 @@ def posiciones(a, b):
     Devuelve una lista con las posiciones donde b está en a.
     """
     lista = []
+    if len(b) > len(a):
+        return []
     for n, l in enumerate(a.lower()):
         try:
             if a[n]+a[n+1] == b:
