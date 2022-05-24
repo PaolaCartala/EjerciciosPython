@@ -5,7 +5,7 @@
 
 ## Descripción
 
-Este repositorio es una compilación de los ejercicios que estoy realizando para el curso de "Programación en Python" en el marco del proyecto de [Inteligencia Artificial Interdisciplinaria](http://noticias.unsam.edu.ar/2019/09/16/la-unsam-piensa-la-inteligencia-artificial-interdisciplinaria/), la [Escuela de Ciencia y Tecnología](http://www.unsam.edu.ar/escuelas/ciencia/) de la [UNSAM](https://www.unsam.edu.ar/).
+Este repositorio es una compilación de los ejercicios que realicé para el curso de "Programación en Python" en el marco del proyecto de [Inteligencia Artificial Interdisciplinaria](http://noticias.unsam.edu.ar/2019/09/16/la-unsam-piensa-la-inteligencia-artificial-interdisciplinaria/), la [Escuela de Ciencia y Tecnología](http://www.unsam.edu.ar/escuelas/ciencia/) de la [UNSAM](https://www.unsam.edu.ar/).
 Es un curso de programación en Python para poder **programar algoritmos** y comprender los métodos desarrollados por otros. Está orientado a profundizar en temas de **análisis y visualización de datos, aprendizaje automático, modelado matemático y desarrollo de scripts**.
 Cabe destacar que semana a semana participamos en la **corrección entre pares** que nos permite aprender tanto a leer código de otro programador como a visualizar un problema desde otro punto de vista.
 
@@ -63,11 +63,7 @@ En esta clase discutimos el concepto de recursión, proponemos algunas bases par
 En otro orden de cosas, en la última sección damos un acercamiento práctico a las técnicas de regresión lineal.
 
 ### Unidad 12: Ordenamiento
-Ordenar una lista de números es una de las tareas fundamentales que realiza un ordenador (también llamado computadora). Los algoritmos conceptualmente más sencillos tienen una complejidad computacional (en el peor caso) que crece de forma cuadrática (n^2) con la longitud, n, de la lista a ordenar. Veremos en detalle dos algoritmos sencillos: el algoritmo de selección y el de inserción y luego divide and conquer que lleva a la idea de merge sort...
-
-## Roadmap
-
-Este repositorio se encuentra en constante cambio ya que voy subiendo los ejercicios que completo cada semana.
+Ordenar una lista de números es una de las tareas fundamentales que realiza un ordenador (también llamado computadora). Los algoritmos conceptualmente más sencillos tienen una complejidad computacional (en el peor caso) que crece de forma cuadrática (n^2) con la longitud, n, de la lista a ordenar. Veremos en detalle dos algoritmos sencillos: el algoritmo de selección y el de inserción y luego divide and conquer que lleva a la idea de merge sort.
 
 ## Soporte
 
